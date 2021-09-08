@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <%@ page trimDirectiveWhitespaces="true"%>
 
-<% msg = "5678"; %>
+<%-- <% msg = "5678"; %> --%>
 
 <h1>sub.jsp message : ${not empty message }</h1>
 
